@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Connect with me https://www.linkedin.com/in/anwesh-sinha-ba97691ab/
 
 <!---
 anwesh-dev-ra/anwesh-dev-ra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
