@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @anwesh-dev-ra
+- 👋 Hi, I’m Anwesh Sinha
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate 
 - 📫 Connect with me https://www.linkedin.com/in/anwesh-sinha-ba97691ab/
 
 <!---
